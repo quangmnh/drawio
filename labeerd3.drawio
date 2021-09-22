@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T03:43:20.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="j_uMwYph0AfL5Kh29PrY" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-22T03:46:06.516Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="OK8QZHZSYT9k_IvW0lXC" version="15.2.9" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1831" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="g677dXJkvFBCZzlqHO2t-12" value="Birth_Year" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-310" y="470" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g677dXJkvFBCZzlqHO2t-13" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="g677dXJkvFBCZzlqHO2t-13" value="WRITE" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-200" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g677dXJkvFBCZzlqHO2t-14" value="" style="shape=link;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="g677dXJkvFBCZzlqHO2t-13" target="g677dXJkvFBCZzlqHO2t-9">
@@ -85,10 +85,10 @@
         <mxCell id="g677dXJkvFBCZzlqHO2t-31" value="HAVE" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="100" y="815" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="g677dXJkvFBCZzlqHO2t-32" value="Reprint" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="g677dXJkvFBCZzlqHO2t-32" value="REPRINT" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-80" y="820" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g677dXJkvFBCZzlqHO2t-33" value="Copy" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="g677dXJkvFBCZzlqHO2t-33" value="COPY" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="250" y="820" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g677dXJkvFBCZzlqHO2t-36" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g677dXJkvFBCZzlqHO2t-7" target="g677dXJkvFBCZzlqHO2t-29">
