@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T04:33:33.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="Jmwnl9c8c5r170zrI2Jb" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-22T04:36:14.027Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="SdFnTUoRKVB7S0-7V8LG" version="15.2.9" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="832" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -52,8 +52,8 @@
         <mxCell id="8KFNnKX_J-wl7DnsQvvH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8KFNnKX_J-wl7DnsQvvH-20" target="8KFNnKX_J-wl7DnsQvvH-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="505" y="717" />
-              <mxPoint x="229" y="717" />
+              <mxPoint x="505" y="727" />
+              <mxPoint x="229" y="727" />
               <mxPoint x="229" y="778" />
             </Array>
           </mxGeometry>
@@ -66,6 +66,32 @@
             <mxPoint x="281" y="684" as="sourcePoint" />
             <mxPoint x="529" y="684" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8KFNnKX_J-wl7DnsQvvH-23" value="&lt;u&gt;ID&lt;/u&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="817" y="649" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8KFNnKX_J-wl7DnsQvvH-24" value="Position" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="917" y="649" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8KFNnKX_J-wl7DnsQvvH-25" value="&lt;b&gt;JOB OFFER&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="813" y="630" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8KFNnKX_J-wl7DnsQvvH-26" value="Date" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1017" y="649" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8KFNnKX_J-wl7DnsQvvH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8KFNnKX_J-wl7DnsQvvH-27" target="8KFNnKX_J-wl7DnsQvvH-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1167" y="712" />
+              <mxPoint x="405" y="712" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8KFNnKX_J-wl7DnsQvvH-27" value="CNAME" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1117" y="649" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8KFNnKX_J-wl7DnsQvvH-28" value="App_ID" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1217" y="649" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
