@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-25T13:42:27.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="FSakKu7IeiQ0ky-g6ZLF" version="15.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-25T13:50:58.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="qyCnBkhwyqyILfrBLTaF" version="15.3.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="981" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -58,9 +58,6 @@
         <mxCell id="hcw-HuyfESIrDcZk3JNz-14" value="Room" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="620" y="130" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hcw-HuyfESIrDcZk3JNz-15" value="Schedule" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="650" y="170" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="hcw-HuyfESIrDcZk3JNz-16" value="Start" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="650" y="220" width="100" height="40" as="geometry" />
         </mxCell>
@@ -89,7 +86,7 @@
           <mxGeometry x="630" y="320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hcw-HuyfESIrDcZk3JNz-25" value="TEACH" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="340" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hcw-HuyfESIrDcZk3JNz-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5HBYDHA0tyYb6QtnvAUV-2" target="hcw-HuyfESIrDcZk3JNz-25">
           <mxGeometry relative="1" as="geometry">
@@ -148,6 +145,27 @@
         <mxCell id="hcw-HuyfESIrDcZk3JNz-40" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="hcw-HuyfESIrDcZk3JNz-39">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hcw-HuyfESIrDcZk3JNz-42" value="Schedule" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="660" y="170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hcw-HuyfESIrDcZk3JNz-43" value="TimeStart" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="760" y="110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hcw-HuyfESIrDcZk3JNz-44" value="TimeEnd" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="780" y="155" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hcw-HuyfESIrDcZk3JNz-47" value="Date" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="788" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hcw-HuyfESIrDcZk3JNz-48" value="Grade" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hcw-HuyfESIrDcZk3JNz-49" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="hcw-HuyfESIrDcZk3JNz-48" target="hcw-HuyfESIrDcZk3JNz-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="340" as="sourcePoint" />
+            <mxPoint x="400" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
