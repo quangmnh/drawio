@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-26T14:54:55.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="WxgUGdyS1SirfP804h6U" version="15.3.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-26T14:59:16.218Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="Jvy3OmXn4KKfJcC3ruI1" version="15.3.2" type="github" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="3220" dy="1215" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1019,7 +1019,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pRk5bfbfNAsuK7AEirez" name="Page-3">
-    <mxGraphModel dx="1527" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1663" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="a4G7RznScw4OmnsehxRb-0" />
         <mxCell id="a4G7RznScw4OmnsehxRb-1" parent="a4G7RznScw4OmnsehxRb-0" />
@@ -1243,6 +1243,15 @@
         </mxCell>
         <mxCell id="Wi_7a9r9bkgfT4_II96W-61" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="Wi_7a9r9bkgfT4_II96W-60">
           <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi_7a9r9bkgfT4_II96W-62" value="Tr-ID" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="a4G7RznScw4OmnsehxRb-1">
+          <mxGeometry x="-220" y="631" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi_7a9r9bkgfT4_II96W-63" value="Type" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="a4G7RznScw4OmnsehxRb-1">
+          <mxGeometry x="-150" y="621" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi_7a9r9bkgfT4_II96W-64" value="Amount" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="a4G7RznScw4OmnsehxRb-1">
+          <mxGeometry x="-90" y="621" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
