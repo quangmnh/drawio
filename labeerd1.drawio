@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T02:57:33.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="ujNWS7T1L_183LVy8xou" version="15.3.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-27T02:59:20.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="adWGzC9lFPcyw_94ZVnR" version="15.3.3" type="github" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2272" dy="786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1606,6 +1606,36 @@
         </mxCell>
         <mxCell id="drX2JWGk1Sc7BsTKcoHw-17" value="Customer-ID" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="a4G7RznScw4OmnsehxRb-1">
           <mxGeometry x="590" y="1060" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="drX2JWGk1Sc7BsTKcoHw-30" value="&lt;u&gt;Acc-ID&lt;/u&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="a4G7RznScw4OmnsehxRb-1">
+          <mxGeometry x="-150" y="1140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="drX2JWGk1Sc7BsTKcoHw-31" value="&lt;b&gt;ACCOUNT&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="a4G7RznScw4OmnsehxRb-1">
+          <mxGeometry x="-150" y="1120" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="drX2JWGk1Sc7BsTKcoHw-32" value="Maturity_Date" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="a4G7RznScw4OmnsehxRb-1">
+          <mxGeometry x="-50" y="1140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="drX2JWGk1Sc7BsTKcoHw-33" value="Initial_Balance" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="a4G7RznScw4OmnsehxRb-1">
+          <mxGeometry x="50" y="1140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="drX2JWGk1Sc7BsTKcoHw-34" value="Current_Balance" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="a4G7RznScw4OmnsehxRb-1">
+          <mxGeometry x="150" y="1140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="drX2JWGk1Sc7BsTKcoHw-35" value="Due" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="a4G7RznScw4OmnsehxRb-1">
+          <mxGeometry x="250" y="1140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="drX2JWGk1Sc7BsTKcoHw-36" value="Interest_Rate" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="a4G7RznScw4OmnsehxRb-1">
+          <mxGeometry x="350" y="1140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="drX2JWGk1Sc7BsTKcoHw-37" value="Payment_Method" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="a4G7RznScw4OmnsehxRb-1">
+          <mxGeometry x="450" y="1140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="drX2JWGk1Sc7BsTKcoHw-38" value="Name" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="a4G7RznScw4OmnsehxRb-1">
+          <mxGeometry x="-281.25" y="1190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="drX2JWGk1Sc7BsTKcoHw-39" value="Open_Date" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="a4G7RznScw4OmnsehxRb-1">
+          <mxGeometry x="550" y="1140" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
