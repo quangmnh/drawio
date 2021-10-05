@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T15:51:30.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="DRnMTbJzjDNNzszrkh7L" version="15.4.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-05T15:52:36.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="bdtYD4_ZugqS-Wt8phqE" version="15.4.1" type="github" pages="4">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1185" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -437,7 +437,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ju9Uv7gDoTEhTinOA0a3" name="Page-4">
-    <mxGraphModel dx="1185" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="EVLARNLNgs27cwenfjrx-0" />
         <mxCell id="EVLARNLNgs27cwenfjrx-1" parent="EVLARNLNgs27cwenfjrx-0" />
@@ -517,10 +517,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EVLARNLNgs27cwenfjrx-23" value="&lt;u&gt;Mã CT&lt;/u&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="EVLARNLNgs27cwenfjrx-1">
-          <mxGeometry x="575" y="740" width="100" height="40" as="geometry" />
+          <mxGeometry x="585" y="740" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EVLARNLNgs27cwenfjrx-24" value="&lt;b&gt;Giao lưu&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EVLARNLNgs27cwenfjrx-1">
-          <mxGeometry x="575" y="710" width="90" height="30" as="geometry" />
+          <mxGeometry x="585" y="710" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EVLARNLNgs27cwenfjrx-29" value="&lt;u&gt;Mã nhóm&lt;/u&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="EVLARNLNgs27cwenfjrx-1">
           <mxGeometry x="365" y="550" width="100" height="40" as="geometry" />
@@ -748,7 +748,7 @@
             <mxPoint x="445" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EVLARNLNgs27cwenfjrx-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EVLARNLNgs27cwenfjrx-1" source="EVLARNLNgs27cwenfjrx-95" target="EVLARNLNgs27cwenfjrx-23">
+        <mxCell id="EVLARNLNgs27cwenfjrx-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="EVLARNLNgs27cwenfjrx-1" source="EVLARNLNgs27cwenfjrx-95" target="EVLARNLNgs27cwenfjrx-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EVLARNLNgs27cwenfjrx-95" value="Mã CT" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="EVLARNLNgs27cwenfjrx-1">
