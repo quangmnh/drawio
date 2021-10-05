@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T15:23:00.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="ccoG0Wn2yfxAq3fzyuJt" version="15.4.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-05T15:23:25.356Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="cyVIb_gM3RCPBGQe8rry" version="15.4.1" type="github" pages="4">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1185" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -562,7 +562,7 @@
           <mxGeometry x="830" y="540" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EVLARNLNgs27cwenfjrx-42" value="&lt;b&gt;Khách mời&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EVLARNLNgs27cwenfjrx-1">
-          <mxGeometry x="780" y="510" width="90" height="30" as="geometry" />
+          <mxGeometry x="830" y="510" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EVLARNLNgs27cwenfjrx-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="EVLARNLNgs27cwenfjrx-1" source="EVLARNLNgs27cwenfjrx-43">
           <mxGeometry relative="1" as="geometry">
