@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T15:11:03.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="wDPZujADflB2LnXqJHe5" version="15.4.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-05T15:14:37.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="ypG8myVJYdNFu8862nSt" version="15.4.1" type="github" pages="4">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1185" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -437,7 +437,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ju9Uv7gDoTEhTinOA0a3" name="Page-4">
-    <mxGraphModel dx="981" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="EVLARNLNgs27cwenfjrx-0" />
         <mxCell id="EVLARNLNgs27cwenfjrx-1" parent="EVLARNLNgs27cwenfjrx-0" />
@@ -538,34 +538,71 @@
           <mxGeometry x="530" y="620" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EVLARNLNgs27cwenfjrx-33" value="&lt;u&gt;Mã TL&lt;/u&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="EVLARNLNgs27cwenfjrx-1">
-          <mxGeometry x="440" y="540" width="100" height="40" as="geometry" />
+          <mxGeometry x="550" y="540" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EVLARNLNgs27cwenfjrx-34" value="&lt;b&gt;Thể loại&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EVLARNLNgs27cwenfjrx-1">
-          <mxGeometry x="440" y="510" width="90" height="30" as="geometry" />
+          <mxGeometry x="550" y="510" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EVLARNLNgs27cwenfjrx-35" value="Tên TL" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="EVLARNLNgs27cwenfjrx-1">
-          <mxGeometry x="540" y="540" width="100" height="40" as="geometry" />
+          <mxGeometry x="650" y="540" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EVLARNLNgs27cwenfjrx-36" value="&lt;u&gt;Mã NS&lt;/u&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="EVLARNLNgs27cwenfjrx-1">
-          <mxGeometry x="680" y="620" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="EVLARNLNgs27cwenfjrx-37" value="&lt;b&gt;Nhạc sĩ&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EVLARNLNgs27cwenfjrx-1">
-          <mxGeometry x="680" y="590" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EVLARNLNgs27cwenfjrx-38" value="Năm sinh" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="EVLARNLNgs27cwenfjrx-1">
           <mxGeometry x="780" y="620" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EVLARNLNgs27cwenfjrx-39" value="Quê quán" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="EVLARNLNgs27cwenfjrx-1">
+        <mxCell id="EVLARNLNgs27cwenfjrx-37" value="&lt;b&gt;Nhạc sĩ&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EVLARNLNgs27cwenfjrx-1">
+          <mxGeometry x="780" y="590" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EVLARNLNgs27cwenfjrx-38" value="Năm sinh" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="EVLARNLNgs27cwenfjrx-1">
           <mxGeometry x="880" y="620" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EVLARNLNgs27cwenfjrx-40" value="Tên NS" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="EVLARNLNgs27cwenfjrx-1">
+        <mxCell id="EVLARNLNgs27cwenfjrx-39" value="Quê quán" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="EVLARNLNgs27cwenfjrx-1">
           <mxGeometry x="980" y="620" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="EVLARNLNgs27cwenfjrx-40" value="Tên NS" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="EVLARNLNgs27cwenfjrx-1">
+          <mxGeometry x="1080" y="620" width="100" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="EVLARNLNgs27cwenfjrx-41" value="&lt;u&gt;Mã KM&lt;/u&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="EVLARNLNgs27cwenfjrx-1">
-          <mxGeometry x="680" y="710" width="100" height="40" as="geometry" />
+          <mxGeometry x="830" y="540" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EVLARNLNgs27cwenfjrx-42" value="&lt;b&gt;Khách mời&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EVLARNLNgs27cwenfjrx-1">
-          <mxGeometry x="680" y="680" width="90" height="30" as="geometry" />
+          <mxGeometry x="780" y="510" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EVLARNLNgs27cwenfjrx-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="EVLARNLNgs27cwenfjrx-1" source="EVLARNLNgs27cwenfjrx-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="600" />
+              <mxPoint x="760" y="600" />
+              <mxPoint x="760" y="550" />
+              <mxPoint x="830" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EVLARNLNgs27cwenfjrx-43" value="Khách mời" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="EVLARNLNgs27cwenfjrx-1">
+          <mxGeometry x="410" y="540" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EVLARNLNgs27cwenfjrx-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="EVLARNLNgs27cwenfjrx-1" source="EVLARNLNgs27cwenfjrx-44" target="EVLARNLNgs27cwenfjrx-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="640" />
+              <mxPoint x="770" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EVLARNLNgs27cwenfjrx-44" value="Khách mời" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="EVLARNLNgs27cwenfjrx-1">
+          <mxGeometry x="630" y="620" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EVLARNLNgs27cwenfjrx-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="EVLARNLNgs27cwenfjrx-1" source="EVLARNLNgs27cwenfjrx-45" target="EVLARNLNgs27cwenfjrx-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1230" y="590" />
+              <mxPoint x="800" y="590" />
+              <mxPoint x="800" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EVLARNLNgs27cwenfjrx-45" value="Khách mời" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="EVLARNLNgs27cwenfjrx-1">
+          <mxGeometry x="1180" y="620" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
